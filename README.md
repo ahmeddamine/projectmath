@@ -9,13 +9,13 @@ Animation pédagogique démontrant les propriétés de la fonction tangente à t
 ![Prévisualisation](media/preview.gif) <!-- Remplacez par votre propre média -->
 
 ## 📚 Description
-Ce projet utilise la bibliothèque Manim pour créer des animations explicatives des identités trigonométriques fondamentales :
+Ce projet utilise la bibliothèque Manim pour créer des animations explicatives des identités trigonométriques basique :
 - Démonstrations visuelles des symétries de la tangente
 - Relations entre angles complémentaires/supplémentaires
 - Illustration de la périodicité de la fonction
 
 **Utilisations idéales** :
-- Support visuel pour l'enseignement des mathématiques
+- Support visuel pour les mathématiques
 - Aide à la compréhension intuitive des identités
 - Base pour des explorations supplémentaires avec Manim
 
