@@ -1,6 +1,14 @@
-
-
-
+# === CRÉDITS ===
+# Animation des identités trigonométriques par Sabir Ahmed Amine
+# Développé avec ManimCE - https://www.manim.community
+# Date de création : [17.02.2025]
+"""
+=== CREDITS ===
+Project: Trigonometric Identities Visualization with Manim
+Author: Sabir Ahmed Amine
+Purpose: Educational video for trigonometry
+Developed with Manim Community Edition
+"""
 from manim import *
 
 class DerivationScene(Scene):
